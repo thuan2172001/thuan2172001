@@ -12,13 +12,13 @@
         <img
             alt="stats"
              height="250vh"
-            src="https://github-readme-stats-silk-xi.vercel.app/api?username=thuan2172001&hide=issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true&orgs=acme,evilcorp,fsociety"/>
+            src="https://github-readme-stats.vercel.app/api?username=thuan2172001&hide=issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true&orgs=acme,evilcorp,fsociety"/>
         </td>
         <td>
         <img
             alt="langs"
              height="250vh"
-            src="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=thuan2172001&layout=compact&langs_count=20&count_private=true&theme=radical"/>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan2172001&layout=compact&langs_count=20&count_private=true&theme=radical"/>
         </td>
     </tr>
     </table>
