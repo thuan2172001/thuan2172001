@@ -11,7 +11,7 @@
         <td>
             <img
                 alt="profile"
-                height="500"
+                height="100%"
                 src="./profile-3d-contrib/profile-season-animate.svg" />
         </td>
         <!-- <img
