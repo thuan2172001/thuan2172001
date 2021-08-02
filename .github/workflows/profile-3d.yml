@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.2.0
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: thuan2172001
       - name: Commit & Push
         run: |
