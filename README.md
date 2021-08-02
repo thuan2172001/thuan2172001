@@ -9,7 +9,12 @@
     <hr />
     <table>
         <td>
-        <img
+            <img
+                alt="profile"
+                height="500"
+                src="./profile-3d-contrib/profile-season-animate.svg" />
+        </td>
+        <!-- <img
             alt="stats"
              height="250vh"
             src="https://github-readme-stats.vercel.app/api?username=thuan2172001&hide=issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true&orgs=acme,evilcorp,fsociety"/>
@@ -18,7 +23,7 @@
         <img
             alt="langs"
              height="250vh"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan2172001&layout=compact&langs_count=20&count_private=true&theme=radical"/>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan2172001&layout=compact&langs_count=20&count_private=true&theme=radical"/> -->
         </td>
     </tr>
     </table>
