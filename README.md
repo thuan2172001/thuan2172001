@@ -5,7 +5,7 @@
 <!-- <p>.-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. .-. </p>
 
 <details> -->
-<summary>My GitHub Stats</summary>
+<summary>My 3D GitHub Stats Generated Automatically</summary>
     <hr />
     <table>
         <td>
