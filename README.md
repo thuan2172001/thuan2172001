@@ -61,10 +61,9 @@ My favorite work sits where **systems engineering + AI + product thinking** meet
 
 | | Project | What it is |
 |---|---|---|
-| 🪄 | **[Dark Magic Agent](https://github.com/thuan2172001/dark-magic-agent)** | Local coding-agent platform, desktop tooling, fleet and developer workflows |
-| 📚 | **[Blog / Learning Lab](https://github.com/thuan2172001/blog)** | Learning platform with SRS, gamification, mini-apps and AI-powered workflows |
+| 🪄 | **[Dark Magic Agent](https://dark-magic.lionet.vn/about)** | Live developer platform for local coding agents, desktop tooling, fleet and developer workflows |
+| 📚 | **[Blog / Learning Lab](https://blog.lionet.vn/)** | Live learning platform with SRS, gamification, mini-apps and AI-powered workflows |
 | 🦀 | **[Rust API Template](https://github.com/zk-steve/rust-web-api-microservice-template)** | Production-oriented Rust REST API / microservice template |
-| 🎓 | **[THPT Liên Hà 60 năm](https://60nam.thptlienha.edu.vn/)** | Anniversary and digital yearbook experience for a real school community |
 
 <div align="center">
 
