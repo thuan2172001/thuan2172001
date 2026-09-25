@@ -3,9 +3,11 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "render": "remotion render ProfileHero ../assets/profile-hero.mp4 --codec=h264 --crf=18",
+    "render": "npm run render:master && npm run render:gif",
     "still": "remotion still ProfileHero ../assets/profile-hero-poster.png --frame=138",
-    "pacman": "node scripts/generate-pacman.mjs"
+    "pacman": "node scripts/generate-pacman.mjs",
+    "render:master": "remotion render ProfileHero ../assets/profile-hero-master-2x.mp4 --codec=h264 --crf=10 --scale=2",
+    "render:gif": "ffmpeg -y -i ../assets/profile-hero-master-2x.mp4 -vf \"fps=12,scale=1600:480:flags=lanczos,unsharp=3:3:0.55:3:3:0.0,split[s0][s1];[s0]palettegen=max_colors=256:reserve_transparent=0:stats_mode=full[p];[s1][p]paletteuse=dither=sierra2_4a:diff_mode=rectangle\" ../assets/profile-hero.gif"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.380",
