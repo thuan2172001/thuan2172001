@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/main/assets/profile-hero.gif" alt="Terminal to systems map — Trinh Van Thuan" />
+
+</div>
+
 ## ⚡ About me
 
 ```ts
@@ -42,15 +48,13 @@ My favorite work sits where **systems engineering + AI + product thinking** meet
 
 ---
 
-## 🌈 Contributions
+## 🕹️ Contribution Arcade
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/main/profile-3d-contrib/profile-season.svg" alt="3D contribution graph" />
+<img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/main/assets/pacman-contribution-graph.svg" />
 
-<br />
-
-<img width="100%" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/output/snake.svg" alt="Contribution snake" />
+<sub>Pac-Man generated from the current GitHub contribution calendar.</sub>
 
 </div>
 
