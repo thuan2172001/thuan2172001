@@ -1,15 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/main/assets/hero-banner.gif" alt="Trinh Van Thuan — Backend & Systems Engineer" />
-
-<br />
-
-[**LinkedIn**](https://www.linkedin.com/in/thuan-trinh-van/) · [**Repositories**](https://github.com/thuan2172001?tab=repositories)
-
-</div>
-
----
-
 ## ⚡ About me
 
 ```ts
