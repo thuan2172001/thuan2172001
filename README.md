@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/main/assets/profile-hero.gif" alt="Terminal to systems map — Trinh Van Thuan" />
+<img width="100%" src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/main/assets/hand-me-the-mess.gif" alt="Hand me the mess — Trinh Van Thuan" />
 
 </div>
 

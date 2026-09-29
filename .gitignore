@@ -1,3 +1,7 @@
 profile-motion/node_modules/
 profile-motion/.cache/
 .DS_Store
+
+# render intermediates from profile-motion
+assets/*-master-*.mp4
+assets/*-poster.png
